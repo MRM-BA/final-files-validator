@@ -1,0 +1,39 @@
+html{background-color: #333;}
+		body {background-color: #F2F2F2;font-size:13px; font-family:arial, sans-serif; width:700px; margin:100px auto;padding:20px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px; border: 3px solid #666;}
+#result p.error{color: red;}
+h1{background-color: #4f5b93; color: white;text-align:right;padding: 4px; padding-right: 8px; -webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px}
+h2{color: #793862; border-bottom: 1px dotted #000}
+h3{ font-size: 20px; color: #793862; border-bottom: 1px dotted #000}
+
+h4{color: #369; }
+
+h5{ font-size: 15px; margin-left: 65px; border-bottom: 1px dotted #ac1e0b; color: rgb(231, 0, 35)}
+
+#checkImages{margin-left: 20px; margin-right: 20px; background-color: rgb(198, 206, 219); padding: 20px; -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px}
+#checkImages p{margin-left: 40px;}
+#checkImages ol{background-color:rgb(242, 242, 242); padding: 15px; margin-left: 65px; margin-right: 65px; -webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px}
+#checkImages ol li{list-style-position: inside;}
+
+#checkImages p.residueImgs{margin-left: 0px; background-color: #fff;
+  padding: 5px;-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px}
+#checkImages p.invalidImgs{margin-left: 0px; background-color: #fff;
+  padding: 5px;-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px}
+
+.html-analize{background-color: #fff; padding: 20px;-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px}
+
+
+
