@@ -326,7 +326,8 @@ class analizer
 		else//si es un archivo lo eliminamos
 		unlink($archivos_carpeta);
 		} 
-		if($carpeta == '/var/www/html/mrm/finalfiles/descomprimido/' || $carpeta == '/var/www/html/mrm/finalfiles/uploads/'){
+		//if($carpeta == '/var/www/html/mrm/finalfiles/descomprimido/' || $carpeta == '/var/www/html/mrm/finalfiles/uploads/'){
+		if($carpeta == 'E:\wwwroot\Stage.mrm.com.ar\mrm\tools\final-files-validator\descomprimido' || $carpeta == 'E:\wwwroot\Stage.mrm.com.ar\mrm\tools\final-files-validator\uploads'){
 		
 		}else{
 		rmdir($carpeta);
